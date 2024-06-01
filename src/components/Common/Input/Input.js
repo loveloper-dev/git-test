@@ -2,6 +2,10 @@ export default class Input {
   constructor() {}
 
   render() {
-    return <div>input</div>;
+    return (
+      <>
+        <div>input 이에용</div>
+      </>
+    );
   }
 }
